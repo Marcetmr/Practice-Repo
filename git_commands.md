@@ -19,3 +19,4 @@ git commit: Confirma los cambios en el repositorio con un mensaje descriptivo.
 git push: Sube cambios locales al repositorio remoto.
 
 git merge: Combina una rama con otra, fusionando cambios en el historial de confirmaciones.
+cambios
